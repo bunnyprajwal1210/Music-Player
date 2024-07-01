@@ -13,4 +13,4 @@ A simple music player built using HTML, CSS, and JavaScript. This player allows 
 
 Music Player:[Music Player Demo](https://bunnyprajwal1210.github.io/Music-Player/)
 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmusic-jerry-enjoy-gif-13206754&psig=AOvVaw2rfI5AiJOiOesJmNe38pUj&ust=1719936775628000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDD8fadhocDFQAAAAAdAAAAABAE)
+![image](https://github.com/bunnyprajwal1210/Music-Player/assets/144813825/8340dfdb-2b77-4a42-90d4-3cb25f685967)
