@@ -4,10 +4,9 @@ A simple music player built using HTML, CSS, and JavaScript. This player allows 
 
 ## Features
 
-- Play and pause functionality
-- Next and previous track navigation
-- Seek bar to navigate within a track
-- Display of track title and artist name
+- Play and pause functionality.
+- Next and previous track navigation.
+- Display of track title and artist name.
 
 ## Demo
 
